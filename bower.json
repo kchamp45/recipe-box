@@ -1,0 +1,20 @@
+{
+  "name": "recipe-box",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Kimberly Lu and Esti Shay"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
